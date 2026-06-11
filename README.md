@@ -1,7 +1,7 @@
 # CodeAlpha_Phishing-Awareness-Training
 Phishing Awareness Training is a cybersecurity education program designed to help individuals recognize,avoid,and respond to phishing attacks.Phishing is a type of cybercrime in which attackers use fraudulent emails,messages,websites,or phone calls to trick users into revealing sensitive information such as passwords, bank details,or personal data.
 # 🛡️ Phishing Awareness Training Module
-prepared by Harikrishna.M
+prepared by HARIKRISHNA.M
 ## 📌 Overview
 The Phishing Awareness Training Module is an educational cybersecurity program designed to help users identify, prevent, and respond to phishing attacks. The module provides practical knowledge about common phishing techniques used by cybercriminals and teaches safe online practices to protect sensitive information.
 
